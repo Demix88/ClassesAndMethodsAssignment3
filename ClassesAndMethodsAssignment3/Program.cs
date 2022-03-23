@@ -12,6 +12,8 @@ public static void Main()
         {
            Math.MyMaths();
             Math.MyMaths(182,3);
+            Math.MyMaths(a:1000,b:9);
+
             Console.ReadLine();
 
 
